@@ -1,0 +1,32 @@
+
+    .topnav {
+      background-color:darkgreen;
+      overflow: hidden;
+    }
+    
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 110px;
+      text-decoration: none;
+      font-size: 30px;
+    }
+    
+    .topnav a:hover {
+      background-color:lightgreen;
+      color: black;
+    }
+    
+    .topnav a.active {
+      background-color:darkgreen;
+      color: white;
+    }
+    img {
+      border-radius: 75%;
+    }
+    h1, h2, h3, h4, h5 {
+      color:darkgreen;
+      letter-spacing: 2px;
+    }
+    
